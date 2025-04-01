@@ -32,7 +32,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unisenac, em Pelotas-
 Consolidador de carteiras de investimentos de Renda Variável.
 
 ### [EmitGo](https://github.com/coder-muller/EmitGo)
-Aplicação para gerar NFe de vendas, algo como um terminal de balcão.
+Aplicação para gerar NFe de vendas.
 
 ### [AI Chat](https://github.com/coder-muller/ai-chat-project)
 Um chat simples e minimalista que se conecta à API Gemini AI, permitindo interações rápidas e eficientes. 
